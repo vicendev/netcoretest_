@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\INDRA\TESTING\netcoretest</_PublishTargetUrl>
+    <History>True|2021-06-18T20:00:45.0697600Z;False|2021-06-18T16:00:10.0502224-04:00;False|2021-06-18T15:59:55.4544390-04:00;True|2021-06-18T15:59:36.1007845-04:00;True|2021-06-18T11:38:45.1335795-04:00;True|2021-06-17T18:04:59.4796652-04:00;</History>
+  </PropertyGroup>
+</Project>
